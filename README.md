@@ -20,15 +20,15 @@ The application recreates the classic game of Tic-Tac-Toe in an interactive desk
 
 ## ✨ Features
 
-❌ Two-player Tic-Tac-Toe gameplay
+- Two-player Tic-Tac-Toe gameplay
 
-⭕ Interactive game board built with Java Swing
+- Interactive game board built with Java Swing
 
-🏆 Automatic win and draw detection
+- Automatic win and draw detection
 
-🖱️ Click-based gameplay
+- Click-based gameplay
 
-🔄 Restart and replay functionality
+- Restart and replay functionality
 
 ---
 
@@ -65,19 +65,19 @@ Run the main Java class to launch the Tic-Tac-Toe game.
 
 ## 🌱 What I Learned
 
-💡 Managing game state and player turns.
+- Managing game state and player turns.
 
-💡 Detecting winning combinations and draw conditions.
+- Detecting winning combinations and draw conditions.
 
-💡 Organizing application logic separately from the user interface.
+- Organizing application logic separately from the user interface.
 
 ---
 
 ## 🚀 Future Ideas
 
-- 🤖 Implement an AI opponent
-- 🏅 Keep score across multiple games
-- 🌈 Add difficulty levels
+- Implement an AI opponent
+- Keep score across multiple games
+- Add difficulty levels
 
 ---
 
